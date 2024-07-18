@@ -1,19 +1,27 @@
 [
   {
+    "id": 1,
+    "name": "Илья Емельянов",
+    "isArchive": false,
+    "role": "driver",
+    "phone": "+7 (883) 508-3269",
+    "birthday": "12.02.1982"
+  },
+  {
     "id": 2,
+    "name": "Александр Ларионов",
     "isArchive": true,
-    "birthday": "11.01.2000",
-    "phone": "+7 (222) 222-2222",
     "role": "waiter",
-    "name": "Александр Ларионов"
+    "phone": "+7 (823) 440-3602",
+    "birthday": "26.01.1986"
   },
   {
     "id": 3,
+    "name": "Богдан Давыдов",
     "isArchive": false,
-    "birthday": "11.09.1990",
-    "phone": "+7 (111) 111-1111",
     "role": "driver",
-    "name": "Богдан Давыдов"
+    "phone": "+7 (971) 575-2645",
+    "birthday": "29.11.1990"
   },
   {
     "id": 4,
@@ -24,20 +32,20 @@
     "birthday": "06.01.1987"
   },
   {
-    "birthday": "27.12.2010",
-    "isArchive": false,
+    "id": 5,
     "name": "Алла Котова",
-    "role": "waiter",
-    "phone": "+7 (123) 123-1231",
-    "id": 5
+    "isArchive": false,
+    "role": "cook",
+    "phone": "+7 (948) 523-2964",
+    "birthday": "26.01.1982"
   },
   {
-    "birthday": "2024-07-09",
-    "isArchive": true,
+    "id": 6,
     "name": "Кира Колесникова",
-    "role": "waiter",
+    "isArchive": true,
+    "role": "cook",
     "phone": "+7 (929) 592-3637",
-    "id": 6
+    "birthday": "25.02.1972"
   },
   {
     "id": 7,
@@ -126,13 +134,5 @@
     "role": "waiter",
     "phone": "+7 (877) 450-3253",
     "birthday": "03.12.1994"
-  },
-  {
-    "id": 18,
-    "isArchive": true,
-    "birthday": "11.11.1111",
-    "phone": "+7 (111) 111-1111",
-    "role": "waiter",
-    "name": "qwe qwe"
   }
 ]
